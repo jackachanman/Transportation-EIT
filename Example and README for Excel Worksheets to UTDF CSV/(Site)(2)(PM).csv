@@ -1,0 +1,7 @@
+[Lanes],,,,,,,,,,,,,
+Lane Group Data,,,,,,,,,,,,,
+RECORDNAME,INTID,NBL,NBT,NBR,SBL,SBT,SBR,EBL,EBT,EBR,WBL,WBT,WBR
+Volume,110,0,0,18,6,0,0,0,0,0,15,0,4
+Volume,100,0,8,0,10,5,0,10,0,0,0,6,0
+Volume,120,19,0,0,0,0,0,0,0,24,0,0,0
+Volume,200,0,0,0,0,0,6,0,10,0,0,0,16
