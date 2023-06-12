@@ -1,0 +1,9 @@
+AM Exist	AM Peak Hour	Existing Traffic
+PM Exist	PM Peak Hour	Existing Traffic
+SAT Exist	SAT Peak Hour	Existing Traffic
+AM FB 2026	AM Peak Hour	2026 Future Background Traffic
+PM FB 2026	PM Peak Hour	2026 Future Background Traffic
+SAT FB 2026	SAT Peak Hour	2026 Future Background Traffic
+AM TF 2026	AM Peak Hour	2026 Total Future Traffic
+PM TF 2026	PM Peak Hour	2026 Total Future Traffic
+SAT TF 2026	SAT Peak Hour	2026 Total Future Traffic

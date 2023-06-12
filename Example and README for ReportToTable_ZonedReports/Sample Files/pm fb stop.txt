@@ -1,0 +1,103 @@
+HCM Unsignalized Intersection Capacity Analysis	PM Peak Hour
+110: Appleby Line & Storage Spot A&W	2026 Future Background Traffic
+
+
+Movement              		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lanes                 					1		1		2>	0	1	2	
+Traffic Volume (veh/h)					5		22		1754	12	10	1468	
+Future Volume (Veh/h) 					5		22		1754	12	10	1468	
+Sign Control          					Yield				Free			Free	
+Grade                 					0%				0%			0%	
+Peak Hour Factor      					0.96		0.96		0.96	0.96	0.96	0.96	
+Hourly flow rate (vph)					5		23		1827	13	10	1529	
+Pedestrians           													
+Lane Width (m)        													
+Walking Speed (m/s)   													
+Percent Blockage      													
+Right turn flare (veh)							1						
+Median type           									None			None	
+Median storage veh)   													
+Upstream signal (m)   									63			259	
+pX, platoon unblocked 					0.82		0.74				0.74		
+vC, conflicting volume					2618		920				1840		
+vC1, stage 1 conf vol 													
+vC2, stage 2 conf vol 													
+vCu, unblocked vol    					1128		208				1443		
+tC, single (s)        					6.8		6.9				4.1		
+tC, 2 stage (s)       													
+tF (s)                					3.5		3.3				2.2		
+p0 queue free %       					97		96				97		
+cM capacity (veh/h)   					157		595				347		
+
+Direction, Lane #     		WB 1	NB 1	NB 2	SB 1	SB 2	SB 3
+Volume Total          		28	1218	622	10	764	764
+Volume Left           		5	0	0	10	0	0
+Volume Right          		23	0	13	0	0	0
+cSH                   		724	1700	1700	347	1700	1700
+Volume to Capacity    		0.04	0.72	0.37	0.03	0.45	0.45
+Queue Length 95th (m) 		0.9	0.0	0.0	0.7	0.0	0.0
+Control Delay (s)     		14.4	0.0	0.0	15.7	0.0	0.0
+Lane LOS              		B			C		
+Approach Delay (s)    		14.4	0.0		0.1		
+Approach LOS          		B					
+
+Intersection Summary
+Average Delay         				0.2
+Intersection Capacity Utilization 				58.9%	ICU Level of Service 					B
+Analysis Period (min) 				15
+
+
+
+	Synchro 10 Report
+
+HCM Unsignalized Intersection Capacity Analysis	PM Peak Hour
+200: Appleby Line & New Development	2026 Future Background Traffic
+
+
+Movement              		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lanes                 					1>		0		2>	0	1	2	
+Traffic Volume (veh/h)					0		10		1773	3	1	1478	
+Future Volume (Veh/h) 					0		10		1773	3	1	1478	
+Sign Control          					Stop				Free			Free	
+Grade                 					0%				0%			0%	
+Peak Hour Factor      					0.92		0.92		0.92	0.92	0.92	0.92	
+Hourly flow rate (vph)					0		11		1927	3	1	1607	
+Pedestrians           													
+Lane Width (m)        													
+Walking Speed (m/s)   													
+Percent Blockage      													
+Right turn flare (veh)													
+Median type           									None			None	
+Median storage veh)   													
+Upstream signal (m)   									124			198	
+pX, platoon unblocked 					0.81		0.74				0.74		
+vC, conflicting volume					2734		965				1930		
+vC1, stage 1 conf vol 													
+vC2, stage 2 conf vol 													
+vCu, unblocked vol    					1219		241				1549		
+tC, single (s)        					6.8		6.9				4.1		
+tC, 2 stage (s)       													
+tF (s)                					3.5		3.3				2.2		
+p0 queue free %       					100		98				100		
+cM capacity (veh/h)   					140		561				313		
+
+Direction, Lane #     		WB 1	NB 1	NB 2	SB 1	SB 2	SB 3
+Volume Total          		11	1285	645	1	804	804
+Volume Left           		0	0	0	1	0	0
+Volume Right          		11	0	3	0	0	0
+cSH                   		561	1700	1700	313	1700	1700
+Volume to Capacity    		0.02	0.76	0.38	0.00	0.47	0.47
+Queue Length 95th (m) 		0.5	0.0	0.0	0.1	0.0	0.0
+Control Delay (s)     		11.6	0.0	0.0	16.6	0.0	0.0
+Lane LOS              		B			C		
+Approach Delay (s)    		11.6	0.0		0.0		
+Approach LOS          		B					
+
+Intersection Summary
+Average Delay         				0.0
+Intersection Capacity Utilization 				59.1%	ICU Level of Service 					B
+Analysis Period (min) 				15
+
+
+
+	Synchro 10 Report

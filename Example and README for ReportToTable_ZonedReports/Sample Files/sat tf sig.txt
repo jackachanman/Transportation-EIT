@@ -1,0 +1,253 @@
+Lanes, Volumes, Timings	SAT Peak Hour
+100: Appleby Line & Mainway	2026 Total Future Traffic
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   		1	2>	0	1	2>	0	1	2>	0	1	2>	0
+Traffic Volume (vph)  		94	54	196	44	26	96	116	1378	54	54	1488	38
+Future Volume (vph)   		94	54	196	44	26	96	116	1378	54	54	1488	38
+Ideal Flow (vphpl)    		1900	1900	1900	1900	1900	1900	1900	1900	1900	1900	1900	1900
+Lane Width (m)        		3.0	3.3	3.3	3.0	3.3	3.3	3.3	3.3	3.3	3.3	3.3	3.3
+Storage Length (m)    		50.0		0.0	65.0		0.0	90.0		0.0	45.0		0.0
+Storage Lanes         		1		0	1		0	1		0	1		0
+Taper Length (m)      		7.5			7.5			7.5			7.5		
+Lane Util. Factor     		1.00	0.95	0.95	1.00	0.95	0.95	1.00	0.95	0.95	1.00	0.95	0.95
+Frt                   			0.883			0.882			0.994			0.996	
+Flt Protected         		0.950			0.950			0.950			0.950		
+Satd. Flow (prot)     		1636	2842	0	1604	2966	0	1728	3288	0	1662	3370	0
+Flt Permitted         		0.593			0.575			0.073			0.102		
+Satd. Flow (perm)     		1021	2842	0	971	2966	0	133	3288	0	178	3370	0
+Right Turn on Red     				Yes			Yes			Yes			Yes
+Satd. Flow (RTOR)     			206			101			4			3	
+Link Speed (k/h)      			60			60			60			60	
+Link Distance (m)     			253.6			343.3			198.4			116.9	
+Travel Time (s)       			15.2			20.6			11.9			7.0	
+Peak Hour Factor      		0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95
+Heavy Vehicles (%)    		3%	10%	8%	5%	3%	4%	1%	5%	18%	5%	3%	8%
+Adj. Flow (vph)       		99	57	206	46	27	101	122	1451	57	57	1566	40
+Shared Lane Traffic (%)													
+Lane Group Flow (vph) 		99	263	0	46	128	0	122	1508	0	57	1606	0
+Turn Type             		pm+pt	NA		pm+pt	NA		pm+pt	NA		pm+pt	NA	
+Protected Phases      		7	4		3	8		5	2		1	6	
+Permitted Phases      		4			8			2			6		
+Detector Phase        		7	4		3	8		5	2		1	6	
+Switch Phase          													
+Minimum Initial (s)   		7.0	8.0		7.0	8.0		7.0	8.0		7.0	8.0	
+Minimum Split (s)     		11.0	37.3		11.0	37.3		11.0	35.3		11.0	35.3	
+Total Split (s)       		12.0	40.0		12.0	40.0		12.0	46.0		12.0	46.0	
+Total Split (%)       		10.9%	36.4%		10.9%	36.4%		10.9%	41.8%		10.9%	41.8%	
+Maximum Green (s)     		8.0	33.7		8.0	33.7		8.0	39.7		8.0	39.7	
+Yellow Time (s)       		3.0	3.7		3.0	3.7		3.0	3.7		3.0	3.7	
+All-Red Time (s)      		1.0	2.6		1.0	2.6		1.0	2.6		1.0	2.6	
+Lost Time Adjust (s)  		-2.0	0.0		-2.0	0.0		-2.0	0.0		-2.0	0.0	
+Total Lost Time (s)   		2.0	6.3		2.0	6.3		2.0	6.3		2.0	6.3	
+Lead/Lag              		Lead	Lag		Lead	Lag		Lead	Lag		Lead	Lag	
+Lead-Lag Optimize?    		Yes	Yes		Yes	Yes		Yes	Yes		Yes	Yes	
+Vehicle Extension (s) 		3.0	3.0		3.0	3.0		3.0	3.0		3.0	3.0	
+Recall Mode           		None	None		None	None		None	C-Max		None	C-Max	
+Walk Time (s)         			7.0			7.0			7.0			7.0	
+Flash Dont Walk (s)   			24.0			24.0			22.0			22.0	
+Pedestrian Calls (#/hr)			0			0			0			0	
+Act Effct Green (s)   		24.0	11.7		23.2	9.3		79.3	67.3		78.3	64.8	
+Actuated g/C Ratio    		0.22	0.11		0.21	0.08		0.72	0.61		0.71	0.59	
+v/c Ratio             		0.36	0.54		0.18	0.37		0.52	0.75		0.23	0.81	
+Control Delay         		38.0	16.7		34.5	17.2		24.1	20.2		6.7	22.4	
+Queue Delay           		0.0	0.0		0.0	0.0		0.0	0.0		0.0	0.0	
+Total Delay           		38.0	16.7		34.5	17.2		24.1	20.2		6.7	22.4	
+LOS                   		D	B		C	B		C	C		A	C	
+Approach Delay        			22.5			21.8			20.5			21.9	
+Approach LOS          			C			C			C			C	
+Queue Length 50th (m) 		17.8	6.2		8.0	2.8		12.4	70.8		2.8	130.0	
+Queue Length 95th (m) 		30.9	18.1		16.7	11.5		m31.3	136.0		7.1	182.4	
+Internal Link Dist (m)			229.6			319.3			174.4			92.9	
+Turn Bay Length (m)   		50.0			65.0			90.0			45.0		
+Base Capacity (vph)   		278	1013		265	978		241	2013		262	1985	
+Starvation Cap Reductn		0	0		0	0		0	0		0	0	
+Spillback Cap Reductn 		0	0		0	0		0	0		0	0	
+Storage Cap Reductn   		0	0		0	0		0	0		0	0	
+Reduced v/c Ratio     		0.36	0.26		0.17	0.13		0.51	0.75		0.22	0.81	
+
+Intersection Summary
+Area Type:            	Other
+Cycle Length: 110
+Actuated Cycle Length: 110
+Offset: 46 (42%), Referenced to phase 2:NBTL and 6:SBTL, Start of Yellow
+Natural Cycle: 125
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.81
+Intersection Signal Delay: 21.3					Intersection LOS: C
+Intersection Capacity Utilization 79.6%					ICU Level of Service D
+Analysis Period (min) 15
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+	Synchro 10 Report
+
+Lanes, Volumes, Timings	SAT Peak Hour
+120: Appleby Line & IcePlex	2026 Total Future Traffic
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   		0	<1>	0	1	1>	0	1	2>	0	1	2>	0
+Traffic Volume (vph)  		1	0	3	90	0	60	2	1501	74	59	1648	1
+Future Volume (vph)   		1	0	3	90	0	60	2	1501	74	59	1648	1
+Ideal Flow (vphpl)    		1900	1900	1900	1900	1900	1900	1900	1900	1900	1900	1900	1900
+Storage Length (m)    		0.0		0.0	0.0		0.0	30.0		0.0	30.0		0.0
+Storage Lanes         		0		0	1		0	1		0	1		0
+Taper Length (m)      		7.5			7.5			7.5			7.5		
+Lane Util. Factor     		1.00	1.00	1.00	1.00	1.00	1.00	1.00	0.95	0.95	1.00	0.95	0.95
+Frt                   			0.899			0.850			0.993				
+Flt Protected         			0.988		0.950			0.950			0.950		
+Satd. Flow (prot)     		0	1555	0	1825	1633	0	1304	3524	0	1825	3510	0
+Flt Permitted         			0.934		0.755			0.124			0.099		
+Satd. Flow (perm)     		0	1470	0	1450	1633	0	170	3524	0	190	3510	0
+Right Turn on Red     				Yes			Yes			Yes			Yes
+Satd. Flow (RTOR)     			70			155			6				
+Link Speed (k/h)      			25			25			60			60	
+Link Distance (m)     			111.2			81.8			301.3			63.0	
+Travel Time (s)       			16.0			11.8			18.1			3.8	
+Peak Hour Factor      		0.97	0.97	0.97	0.97	0.97	0.97	0.97	0.97	0.97	0.97	0.97	0.97
+Heavy Vehicles (%)    		0%	0%	13%	0%	0%	0%	40%	3%	0%	0%	4%	0%
+Adj. Flow (vph)       		1	0	3	93	0	62	2	1547	76	61	1699	1
+Shared Lane Traffic (%)													
+Lane Group Flow (vph) 		0	4	0	93	62	0	2	1623	0	61	1700	0
+Turn Type             		Perm	NA		Perm	NA		Perm	NA		pm+pt	NA	
+Protected Phases      			4			8			2		1	6	
+Permitted Phases      		4			8			2			6		
+Detector Phase        		4	4		8	8		2	2		1	6	
+Switch Phase          													
+Minimum Initial (s)   		8.0	8.0		8.0	8.0		8.0	8.0		7.0	8.0	
+Minimum Split (s)     		35.8	35.8		35.8	35.8		32.1	32.1		11.0	32.1	
+Total Split (s)       		39.0	39.0		39.0	39.0		59.0	59.0		12.0	71.0	
+Total Split (%)       		35.5%	35.5%		35.5%	35.5%		53.6%	53.6%		10.9%	64.5%	
+Maximum Green (s)     		32.2	32.2		32.2	32.2		52.9	52.9		8.0	64.9	
+Yellow Time (s)       		3.0	3.0		3.0	3.0		3.7	3.7		3.0	3.7	
+All-Red Time (s)      		3.8	3.8		3.8	3.8		2.4	2.4		1.0	2.4	
+Lost Time Adjust (s)  			0.0		0.0	0.0		0.0	0.0		-2.0	0.0	
+Total Lost Time (s)   			6.8		6.8	6.8		6.1	6.1		2.0	6.1	
+Lead/Lag              								Lag	Lag		Lead		
+Lead-Lag Optimize?    								Yes	Yes		Yes		
+Vehicle Extension (s) 		3.0	3.0		3.0	3.0		3.0	3.0		3.0	3.0	
+Recall Mode           		None	None		None	None		C-Max	C-Max		None	C-Max	
+Walk Time (s)         		7.0	7.0		7.0	7.0		7.0	7.0			7.0	
+Flash Dont Walk (s)   		22.0	22.0		22.0	22.0		19.0	19.0			19.0	
+Pedestrian Calls (#/hr)		0	0		0	0		0	0			0	
+Act Effct Green (s)   			12.6		12.6	12.6		75.6	75.6		88.6	84.5	
+Actuated g/C Ratio    			0.11		0.11	0.11		0.69	0.69		0.81	0.77	
+v/c Ratio             			0.02		0.56	0.19		0.02	0.67		0.21	0.63	
+Control Delay         			0.2		58.3	1.3		1.5	2.8		2.3	2.1	
+Queue Delay           			0.0		0.0	0.0		0.0	0.0		0.0	0.0	
+Total Delay           			0.2		58.3	1.3		1.5	2.8		2.3	2.1	
+LOS                   			A		E	A		A	A		A	A	
+Approach Delay        			0.3			35.5			2.8			2.1	
+Approach LOS          			A			D			A			A	
+Queue Length 50th (m) 			0.0		19.2	0.0		0.0	9.0		0.9	16.0	
+Queue Length 95th (m) 			0.0		34.1	0.0		m0.0	11.2		m1.8	24.4	
+Internal Link Dist (m)			87.2			57.8			277.3			39.0	
+Turn Bay Length (m)   								30.0			30.0		
+Base Capacity (vph)   			479		424	587		116	2425		301	2696	
+Starvation Cap Reductn			0		0	0		0	0		0	0	
+Spillback Cap Reductn 			0		0	0		0	0		0	0	
+Storage Cap Reductn   			0		0	0		0	0		0	0	
+Reduced v/c Ratio     			0.01		0.22	0.11		0.02	0.67		0.20	0.63	
+
+Intersection Summary
+Area Type:            	Other
+Cycle Length: 110
+Actuated Cycle Length: 110
+Offset: 68 (62%), Referenced to phase 2:NBTL and 6:SBTL, Start of Yellow
+Natural Cycle: 90
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.67
+Intersection Signal Delay: 3.9					Intersection LOS: A
+Intersection Capacity Utilization 71.4%					ICU Level of Service C
+Analysis Period (min) 15
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+	Synchro 10 Report
+
+Lanes, Volumes, Timings	SAT Peak Hour
+130: Appleby Line & North Service Road	2026 Total Future Traffic
+
+
+Lane Group            		EBL	EBT	EBR	WBL	WBT	WBR	NBL	NBT	NBR	SBL	SBT	SBR
+Lane Configurations   		1	1>	0	1	1>	0	1	2>	0	1	2>	0
+Traffic Volume (vph)  		39	11	153	54	5	29	94	1518	75	21	1781	24
+Future Volume (vph)   		39	11	153	54	5	29	94	1518	75	21	1781	24
+Ideal Flow (vphpl)    		1900	1900	1900	1900	1900	1900	1900	1900	1900	1900	1900	1900
+Storage Length (m)    		30.0		0.0	70.0		0.0	55.0		0.0	45.0		0.0
+Storage Lanes         		1		0	1		0	1		0	1		0
+Taper Length (m)      		7.5			7.5			7.5			7.5		
+Lane Util. Factor     		1.00	1.00	1.00	1.00	1.00	1.00	1.00	0.95	0.95	1.00	0.95	0.95
+Frt                   			0.860			0.871			0.993			0.998	
+Flt Protected         		0.950			0.950			0.950			0.950		
+Satd. Flow (prot)     		1789	1620	0	1789	1640	0	1789	3553	0	1789	3571	0
+Flt Permitted         		0.734			0.335			0.057			0.090		
+Satd. Flow (perm)     		1382	1620	0	631	1640	0	107	3553	0	170	3571	0
+Right Turn on Red     				Yes			Yes			Yes			Yes
+Satd. Flow (RTOR)     			161			31			5			1	
+Link Speed (k/h)      			48			48			60			60	
+Link Distance (m)     			155.8			220.4			203.5			301.3	
+Travel Time (s)       			11.7			16.5			12.2			18.1	
+Peak Hour Factor      		0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95	0.95
+Adj. Flow (vph)       		41	12	161	57	5	31	99	1598	79	22	1875	25
+Shared Lane Traffic (%)													
+Lane Group Flow (vph) 		41	173	0	57	36	0	99	1677	0	22	1900	0
+Turn Type             		Perm	NA		pm+pt	NA		pm+pt	NA		pm+pt	NA	
+Protected Phases      			4		3	8		5	2		1	6	
+Permitted Phases      		4			8			2			6		
+Detector Phase        		4	4		3	8		5	2		1	6	
+Switch Phase          													
+Minimum Initial (s)   		8.0	8.0		7.0	5.0		7.0	8.0		7.0	8.0	
+Minimum Split (s)     		36.0	36.0		11.0	36.0		11.0	33.0		11.0	33.0	
+Total Split (s)       		39.0	39.0		11.0	50.0		11.0	49.0		11.0	49.0	
+Total Split (%)       		35.5%	35.5%		10.0%	45.5%		10.0%	44.5%		10.0%	44.5%	
+Maximum Green (s)     		32.9	32.9		7.0	43.9		7.0	42.4		7.0	42.4	
+Yellow Time (s)       		3.7	3.7		3.0	3.7		3.0	3.7		3.0	3.7	
+All-Red Time (s)      		2.4	2.4		1.0	2.4		1.0	2.9		1.0	2.9	
+Lost Time Adjust (s)  		0.0	0.0		-2.0	0.0		-2.0	0.0		-2.0	0.0	
+Total Lost Time (s)   		6.1	6.1		2.0	6.1		2.0	6.6		2.0	6.6	
+Lead/Lag              		Lag	Lag		Lead			Lead	Lag		Lead	Lag	
+Lead-Lag Optimize?    		Yes	Yes		Yes			Yes	Yes		Yes	Yes	
+Vehicle Extension (s) 		3.0	3.0		3.0	3.0		3.0	3.0		3.0	3.0	
+Recall Mode           		None	None		None	None		None	C-Max		None	C-Max	
+Walk Time (s)         		7.0	7.0			7.0			7.0			7.0	
+Flash Dont Walk (s)   		22.0	22.0			22.0			19.0			19.0	
+Pedestrian Calls (#/hr)		0	0			0			0			0	
+Act Effct Green (s)   		9.6	9.6		22.5	18.4		83.2	74.5		80.9	67.3	
+Actuated g/C Ratio    		0.09	0.09		0.20	0.17		0.76	0.68		0.74	0.61	
+v/c Ratio             		0.34	0.60		0.25	0.12		0.44	0.70		0.09	0.87	
+Control Delay         		54.2	18.1		36.4	15.2		18.0	15.0		6.4	21.0	
+Queue Delay           		0.0	0.0		0.0	0.0		0.0	0.0		0.0	0.0	
+Total Delay           		54.2	18.1		36.4	15.2		18.0	15.0		6.4	21.0	
+LOS                   		D	B		D	B		B	B		A	C	
+Approach Delay        			25.0			28.2			15.2			20.9	
+Approach LOS          			C			C			B			C	
+Queue Length 50th (m) 		8.5	2.4		10.0	0.9		4.8	92.5		1.0	88.3	
+Queue Length 95th (m) 		18.6	21.8		19.6	9.0		21.2	181.7		m3.3	#258.6	
+Internal Link Dist (m)			131.8			196.4			179.5			277.3	
+Turn Bay Length (m)   		30.0			70.0			55.0			45.0		
+Base Capacity (vph)   		413	597		224	673		227	2406		257	2184	
+Starvation Cap Reductn		0	0		0	0		0	0		0	0	
+Spillback Cap Reductn 		0	0		0	0		0	0		0	0	
+Storage Cap Reductn   		0	0		0	0		0	0		0	0	
+Reduced v/c Ratio     		0.10	0.29		0.25	0.05		0.44	0.70		0.09	0.87	
+
+Intersection Summary
+Area Type:            	Other
+Cycle Length: 110
+Actuated Cycle Length: 110
+Offset: 9 (8%), Referenced to phase 2:NBTL and 6:SBTL, Start of Green
+Natural Cycle: 135
+Control Type: Actuated-Coordinated
+Maximum v/c Ratio: 0.87
+Intersection Signal Delay: 18.7					Intersection LOS: B
+Intersection Capacity Utilization 88.9%					ICU Level of Service E
+Analysis Period (min) 15
+#    95th percentile volume exceeds capacity, queue may be longer.
+     Queue shown is maximum after two cycles.
+m    Volume for 95th percentile queue is metered by upstream signal.
+
+
+	Synchro 10 Report
