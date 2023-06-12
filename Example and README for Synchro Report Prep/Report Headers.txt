@@ -1,0 +1,9 @@
+PM Exist	PM Peak Hour	2021 Existing Conditions	Do Nothing Scenario
+AM Exist	AM Peak Hour	2021 Existing Conditions	Do Nothing Scenario
+SAT Exist	SAT Peak Hour	2021 Existing Conditions	Do Nothing Scenario
+AM FB 2036	AM Peak Hour	2036 Future Background Conditions	Do Nothing Scenario
+PM FB 2036	PM Peak Hour	2036 Future Background Conditions	Do Nothing Scenario
+SAT FB 2036	SAT Peak Hour	2036 Future Background Conditions	Do Nothing Scenario
+AM TF 2036	AM Peak Hour	2036 Total Future Conditions	Do Nothing Scenario
+PM TF 2036	PM Peak Hour	2036 Total Future Conditions	Do Nothing Scenario
+SAT TF 2036	SAT Peak Hour	2036 Total Future Conditions	Do Nothing Scenario
